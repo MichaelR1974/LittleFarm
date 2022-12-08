@@ -1,0 +1,57 @@
+[
+  {
+    "id": 0,
+    "productName": "Frische Avocados",
+    "image": "🥑",
+    "from": "Spanien",
+    "nutrients": "Vitamin B, Vitamin K",
+    "quantity": "4 🥑",
+    "price": "6.50",
+    "organic": true,
+    "description": "Eine reife Avocado gibt auf sanften Druck nach, wenn man sie in der Handfläche hält und drückt. Die Frucht ist nicht süß, aber deutlich und subtil gewürzt, mit glatter Textur. Die Avocado ist wegen ihres hohen Fettgehalts in der vegetarischen Küche als Fleischersatz in Sandwiches und Salaten beliebt. Im Allgemeinen wird Avocado roh serviert, obwohl einige Sorten, einschließlich der gewöhnlichen „Hass“, für kurze Zeit gekocht werden können, ohne bitter zu werden. Es wird als Basis für den als Guacamole bekannten mexikanischen Dip sowie als Aufstrich auf Maistortillas oder Toast verwendet, der mit Gewürzen serviert wird."
+  },
+  {
+    "id": 1,
+    "productName": "Ziegen- und Schafkäse",
+    "image": "🧀",
+    "from": "Portugal",
+    "nutrients": "Vitamin A, Calcium",
+    "quantity": "250g",
+    "price": "5.00",
+    "organic": false,
+    "description": "Ziegenkäse ist cremig und unverwechselbar im Geschmack und ein Milchprodukt, das auf der ganzen Welt genossen wird. Ziegenkäse gibt es in einer Vielzahl von Geschmacksrichtungen und Texturen, von weichem und streichfähigem Frischkäse bis hin zu salzigem, krümelig gereiftem Käse. Ziegenkäse wird zwar nach dem gleichen Gerinnungs- und Trennverfahren wie Kuhmilchkäse hergestellt, unterscheidet sich jedoch im Nährstoffgehalt."
+  },
+  {
+    "id": 2,
+    "productName": "Apollo Broccoli",
+    "image": "🥦",
+    "from": "Portugal",
+    "nutrients": "Vitamin C, Vitamin K",
+    "quantity": "3 🥦",
+    "price": "5.50",
+    "organic": true,
+    "description": "Brokkoli ist als herzhaftes und schmackhaftes Gemüse bekannt, das reich an Dutzenden von Nährstoffen ist. Es wird gesagt, dass es den nahrhaftesten Schlag aller Gemüse enthält. Wenn wir an grünes Gemüse denken, das wir in unsere Ernährung aufnehmen können, ist Brokkoli eines der wichtigsten Gemüse, das uns in den Sinn kommt. Brokkoli ist ein Kreuzblütler und Teil der Kohlfamilie, zu der Gemüse wie Rosenkohl und Grünkohl gehören. Obwohl die Geschmäcker unterschiedlich sind, stammen Brokkoli und diese anderen Gemüsesorten aus derselben Familie."
+  },
+  {
+    "id": 3,
+    "productName": "Baby Karotten",
+    "image": "🥕",
+    "from": "France",
+    "nutrients": "Vitamin A, Vitamin K",
+    "quantity": "20 🥕",
+    "price": "3.00",
+    "organic": true,
+    "description": "Die Karotte ist ein Wurzelgemüse, das oft als perfektes gesundes Lebensmittel bezeichnet wird. Es ist knusprig, lecker und sehr nahrhaft. Karotten sind eine besonders gute Quelle für Beta-Carotin, Ballaststoffe, Vitamin K, Kalium und Antioxidantien. Karotten haben eine Reihe von gesundheitlichen Vorteilen. Sie sind ein gewichtsreduzierendes Lebensmittel und wurden mit einem niedrigeren Cholesterinspiegel und einer verbesserten Augengesundheit in Verbindung gebracht."
+  },
+  {
+    "id": 4,
+    "productName": "Süsse Maiskolben",
+    "image": "🌽",
+    "from": "Germany",
+    "nutrients": "Vitamin C, Magnesium",
+    "quantity": "2 🌽",
+    "price": "2.00",
+    "organic": false,
+    "description": "Mais, auch als Mais bekannt, ist eines der beliebtesten Getreidekörner der Welt. Popcorn und Zuckermais werden häufig gegessen, aber auch raffinierte Maisprodukte werden häufig konsumiert, häufig als Zutaten in Lebensmitteln. Dazu gehören Tortillas, Tortilla-Chips, Polenta, Maismehl, Maismehl, Maissirup und Maisöl. Vollkornmais ist so gesund wie jedes Getreidekorn, reich an Ballaststoffen und vielen Vitaminen, Mineralstoffen und Antioxidantien."
+  }
+]
